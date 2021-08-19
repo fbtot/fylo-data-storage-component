@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-scss-and-flexbox-KZq0kUD0a#comment-611e774e30d21659ace4dd9a)
+- [Live Site](https://filippo-b.github.io/fylo-data-storage-component/)
 
 ## My process
 
