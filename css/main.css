@@ -19,6 +19,17 @@
   list-style-type: none;
 }
 
+.hide-element {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
 /*  
     ----------------------------------------------------- § TEMP
 */
@@ -55,8 +66,8 @@ body {
 }
 @media screen and (min-width: 600px) {
   body {
-    background: var(--very-dark-blue) url(../images/bg-desktop.png) top 100% left 0 no-repeat;
-    background-size: contain;
+    background: var(--very-dark-blue) url(../images/bg-desktop.png) bottom left no-repeat;
+    background-size: 100% 50%;
   }
 }
 
