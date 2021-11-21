@@ -13,10 +13,10 @@ function displayLeftStorage() {
   return  leftStorageNumber.textContent = leftStorage;
 }
 
-function progressBar (){
+function progressBar () {
   return progressBarInner.style.width =  usedStoragePercentage 
 }
 
 progressBarInner.style.width =  0 ;
 displayLeftStorage();
-setTimeout(progressBar, 1000);
+setTimeout(progressBar, 500);
